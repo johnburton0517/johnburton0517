@@ -29,3 +29,10 @@ Hi I'm John Burton, I graduated from the University of South Carolina with a deg
 ### 📊 Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnburton0517&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnburton0517&show_icons=true&theme=buefy)
+
+#
+### 💻 Projects
+[![Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=johnburton0517&repo=personal_portfolio)](https://github.com/johnburton0517/personal_portfolio)
+[![Terminal Website](https://github-readme-stats.vercel.app/api/pin/?username=johnburton0517&repo=Terminal_Site)](https://github.com/johnburton0517/Terminal_Site)
+[![Tic Tac Toe](https://github-readme-stats.vercel.app/api/pin/?username=johnburton0517&repo=TicTacToe_Javascript)](https://github.com/johnburton0517/TicTacToe_Javascript)
+[![Racing Game](https://github-readme-stats.vercel.app/api/pin/?username=johnburton0517&repo=RacingGame)](https://github.com/johnburton0517/RacingGame)
