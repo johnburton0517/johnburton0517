@@ -1,6 +1,6 @@
 # John Burton
 
-Hi I'm John Burton, I graduated from the University of South Carolina with a degree in Computer Engineering in 2022. I have a passion for building and creating, and I love using my programming skills to bring ideas to life. Whether I'm building a web application, creating a game, or automating a task, I'm always looking for new challenges and opportunities to learn and grow.
+Hi I'm John Burton, I graduated from the University of South Carolina with a degree in Computer Engineering. I have a passion for building and creating, and I love using my programming skills to bring ideas to life. Whether I'm building a web application, creating a game, or automating a task, I'm always looking for new challenges and opportunities to learn and grow.
 
 
 <div align="center">   
